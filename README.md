@@ -1,8 +1,8 @@
 ### Heyo, I'm Bastien! 👋
 
-- 🐘 I'm fullstack PHP/JS web dev (9+ years)
+- 🐘 I'm a fullstack PHP/JS web dev (9+ years)
 - 🎨 I love frontend and UX
-- 🇬🇧/🇫🇷 I'm french but I'm pretty fluent in English
+- 🇬🇧/🇫🇷 I'm French but I'm pretty fluent in English
 - 💬 AMA you want on [Twitter](https://twitter.com/bastientanesie)
 - 🤫 Most of my work is private, sadly
 - 🎮 I'm a nerdy gamer
